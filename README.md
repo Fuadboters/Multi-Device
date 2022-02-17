@@ -1,2 +1,2 @@
-# JOJO-MD
-Jojo Bot Multi Device
+# Fuad-MD
+Fuad Bot Multi Device
